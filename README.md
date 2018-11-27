@@ -16,7 +16,7 @@ get a secret code from [neverbounce](https://neverbounce.com/)
 git clone https://github.com/reganto/email-validation
 ```
 
-insert secret code to utility
+insert `secret code` to utility
 
 then import utility to your project
 
