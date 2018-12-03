@@ -1,5 +1,6 @@
 import requests
 
+
 # email validation
 def email_validation(this_email):
     secret_key = 'YOUR SECRET KEY'
