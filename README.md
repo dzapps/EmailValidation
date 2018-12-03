@@ -13,7 +13,7 @@ Email validation utility for web applications
 get a secret code from [neverbounce](https://neverbounce.com/)
 
 ```bash
-git clone https://github.com/reganto/email-validation
+git clone https://github.com/reganto/EmailValidation
 ```
 
 insert `secret code` to utility
@@ -34,4 +34,3 @@ If you have improvements or bug fixes:
 
 * [Reganto Blog](http://reganto.blog.ir)
 * [Reganto Github](https://github.com/reganto)
-* [Reganto Gitlab](https://gitlab.com/reganto)
